@@ -10,5 +10,6 @@ Sentiment Analysis of Music Topic Review in Twitter Application With Text Blob
 + 12S18030 - Unedo Ignasius Manalu
 
 ## Tujuan 
-1. Menerapkan sentiment analysis pada streaming data twitter untuk tweet yang berisi review musik tertentu.
-2. Mengklasifikasikan informasi mengenai review musik pada twitter dengan menggunakan Text Mining dan Support Vector Machine untuk mengetahui baik buruknya sebuah review.
+1. Menerapkan sentiment analysis pada streaming data twitter untuk tweet yang berisi topik musik.
+2. Mengklasifikasikan informasi mengenai tweet musik pada twitter dengan menggunakan Text Blob untuk mengetahui baik buruknya sebuah tweet.
+
